@@ -4,6 +4,7 @@ openpyxl==2.2.2
 djangorestframework==3.1.2
 xlrd==0.9.3
 pymysql==0.6.6
+cx_Oracle==5.2
 uwsgi==2.0.9
 virtualenv
 virtualenvwrapper
